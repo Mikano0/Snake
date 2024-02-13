@@ -2,8 +2,7 @@
 
 ## About ## 
 
-Semid is a framework with different Discord functions and OSINT modules.\
-Currently this is still a work in development, but modules are still being added
+Simple console snake game made in python using turtle
 
 ## Installation ##
 
